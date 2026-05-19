@@ -3,5 +3,21 @@
   {
     "filename":"customers.csv",
     "rel_path":"kiranmanam534/customer360/refs/heads/main/"
+  },
+   {
+    "filename":"orders.csv",
+    "rel_path":"kiranmanam534/customer360/refs/heads/main/"
+  },
+   {
+    "filename":"payments.csv",
+    "rel_path":"kiranmanam534/customer360/refs/heads/main/"
+  },
+   {
+    "filename":"support_tickets.csv",
+    "rel_path":"kiranmanam534/customer360/refs/heads/main/"
+  },
+   {
+    "filename":"web_activities.csv",
+    "rel_path":"kiranmanam534/customer360/refs/heads/main/"
   }
 ]
