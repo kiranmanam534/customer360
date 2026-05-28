@@ -1,0 +1,27 @@
+[
+  {
+    "source":"source",
+    "destination":"bronze",
+    "folder":"customers"
+  },
+  {
+    "source":"source",
+    "destination":"bronze",
+    "folder":"orders"
+  },
+  {
+    "source":"source",
+    "destination":"bronze",
+    "folder":"payments"
+  },
+  {
+    "source":"source",
+    "destination":"bronze",
+    "folder":"support_tickets"
+  },
+  {
+    "source":"source",
+    "destination":"bronze",
+    "folder":"web_activities"
+  }
+]
